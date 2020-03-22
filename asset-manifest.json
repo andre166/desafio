@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/desafio/static/css/main.f55f5c48.chunk.css",
-    "main.js": "/desafio/static/js/main.3a3e4028.chunk.js",
+    "main.js": "/static/js/main.3a3e4028.chunk.js",
     "main.js.map": "/desafio/static/js/main.3a3e4028.chunk.js.map",
     "runtime-main.js": "/desafio/static/js/runtime-main.b5319f79.js",
     "runtime-main.js.map": "/desafio/static/js/runtime-main.b5319f79.js.map",
